@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📅 Interactive Calendar Component
 
 ## 📌 Overview
@@ -66,3 +67,7 @@ http://localhost:3000
 ## 👤 Author
 
 Jyothika Bhimavarapu
+=======
+# interactive-calendar
+An interactive React-based wall calendar component featuring date range selection, notes management with localStorage, responsive design, and visually rich UI inspired by a physical calendar.
+>>>>>>> 5e65dc7dd3180d96bc0dd8730c0fbb56fe448608
